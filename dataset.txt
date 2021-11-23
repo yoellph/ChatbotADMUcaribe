@@ -1,0 +1,387 @@
+Hola buenos días	nan
+ me gustaría tener una asesoría con la maestra Luz del Carmen Zubieta por favor cuando ella esté disponible	asesoria: luz del carmen zubieta
+Claro	nan
+ a esa hora estaría bien	nan
+ hablaremos sobre la materia de métodos numéricos y del tema del método de Newton	materia: metodos numericos, tema: metodo de newton
+Buenas tardes 	nan
+Disculpe	nan
+ la maestra Luz del Carmen Zubieta cuándo tiene sus asesorías?	asesoria: luz del carmen zubieta
+Hola buenas tardes	nan
+Me gustaría solicitar una asesoría con la maestra Luz del Carmen Zubieta Rico por favor	asesoria: luz del carmen zubieta rico
+Ya me comuniqué con ella y me puse de acuerdo con la maestra	nan
+ gracias:)	nan
+Hola buenas tardes	nan
+ me gustaría tener una asesoría con la maestra Luz Zubieta por favor	asesoria: Luz zubieta
+Disculpe	nan
+ el profesor Fernando Gomez nos dijo que podíamos solicitar asesoría con él por este medio aunque esté fuera de su horario de asesoría	asesoria: Fernando Gomez
+ por lo que quería solicitar si se puede tener una asesoría con él el día de mañana (viernes 7 de octubre) y tengo un horario disponible desde las 9 am hasta las 3 pm	asesoria: , dia:viernes mañana, tiempo: 9 am - 3 pm
+Hola	nan
+ buenas noches	nan
+ quisiera solicitar una asesoría El martes de 15-16 con José Enrique	asesoria: jose enrrique, dia: martes, tiempo 15 - 16
+ por favor	nan
+Hola	nan
+ buenos días	nan
+ quisiera agendar una asesoría El jueves de 15-16 con José Enrique	asesoria: jose enrrique, dia: jueves tiempo 15 - 16
+ por favor.	nan
+ por favor	nan
+Con el profesor Juan Diego canul	asesoria: juan diego canul
+ el miercoles por favor	dia: miercoles
+Buenos días Para sacar cita oara unas asesorías  	asesoria:
+El día jueves con el profesor Juan Diego Canul	asesoria: juan diego canul, dia: jueves
+Una disculpa	nan
+ me confundí de día	nan
+Hola buen dia	nan
+ para solicitar asesoria para mañana con el profesor eugenio alas 12-13 o bien de 17 a 19 	asesoria:Eugenio,dia:mañana,tiempo:17 - 19,tiempo:12-13
+Hola buen dia	nan
+ quisiera sacar una asesoria el miércoles 6 de octubre de 12 a 1pm con el profesor eugenio porfavor	asesoria:Eugenio,dia:Miercoles,tiempo:12-13
+O igual si puede ser el dia de hoy de 19-20hrs	dia:hoy,tiempo:19-20
+ con el profesor eugenio	asesorias:Eugenio
+estaria mejor	nan
+ muchas gracias	nan
+Hola? Si quedaria para el miércoles la asesoria con el profesor eugenio?	asesoria:Eugenio, dia:miercoles
+Disculpen	nan
+ no estan dando citas? O ya no hay espacio? Quiero una cita para este miercoles 6 de octubre de 12 a 1pm con el profesor eugenio porfavor	asesorias:Eugenio,dia:miercoles,tiempo:12-13
+Aun no recibo el correo de confirmacion	nan
+Listo	nan
+ confirmo de recibido	nan
+ muchas gracias	nan
+Quiero tomar una sesión de números primos y como determinar el horario en el tema de sucesiones de 7 a 8 pm.Porfavor	asesoria: ,dia:hoy,tiempo:19-20
+Que correo me llegará???	nan
+Solicito asesoria de numeros complejos de 2 a 3 porfavor con la mestra diana del pilar	asesoria:dana del pilar,dias: hoy,tiempo:14-15,tema:numeros complejos
+Hola buenas tardes	nan
+ me gustaría tomar asesoría mañana después de la 1 p.m	asesoria: ,dia:mañana,tiempo:13-14
+Si	nan
+ porfavor	nan
+Buen día	nan
+ para solicitar una asesoría sobre el uso de R. Llevo la materia de estadística analítica pero el uso de RStudio se me ha complicado debido a que se utilizan comandos o frases que desconozco su uso	asesoria: ,dia:martes,tiempo:12-14,tema:Rstudio
+ por ejemplo: set.seed	nan
+ qnorm	nan
+ rand etc.	nan
+Dr. Jairo Ayala Martes de 12-14	asesoria:jairo ayala,dia:martes,tiempo:12-14,tema:Rstudio
+Hola	nan
+ buenas noches	nan
+Para solicitar una asesoría con el Dr. Jairo hoy jueves de 12-14 por favor	asesoria:jairo,dia:jueves,tiempo12-14,tema:Rstudio
+Claro	nan
+ muchas gracias	nan
+Hola	nan
+ buenas noches	nan
+ disculpe la hora. Para solicitar una asesoría con la profesora Luz el día lunes ¿hay posibilidad?	asesoria:luz del carmen,dia:lunes
+A las 10am por favor	tiempo:10
+Claro	nan
+ confirmaré	nan
+Hola buenas tardes	nan
+ habia mandado un correo para poder asistir a las tutorias de matematicas ya que estoy teniendo problemas para entender las materias y estoy en mi tercera oportunidad para pasar	nan
+Buenas tardes	nan
+ mi nombre es Adriana Santoyo	nan
+ estudio Ingeniería Ambiental	nan
+ solicito su ayuda para agendar asesoría en Algebra lineal (Tema en especifico vectores)	asesoria: ,materia: algebralineal, tema:vectores
+ con el Prof. Eugenio Guerrero el día	asesoria: Eugenio Guerrero
+ miércoles 17:00 hrs.	dia: miercoles, tiempo:17
+YA VI LAS HORAS DISPONIBLES Creo que ese horario que solicito esta ocupado estaré al pendiente cualquiera de los dos profesor	nan
+ gracias por su atención! 	nan
+Muchas gracias! verificare mi correo y confirmare. Saludos!1	nan
+hola buenas tardes disculpen en que horario podría obtener asistencia con calculo vectorial? 	asesoria: ,materia:calculovectorial
+puede ser con el profesor josé enrique alvarez el martes de 3 a 4 pm por favor?	asesoria:Jose enrique alvarez,dia:martes,tiempo:15-16
+listo ya lo hice	nan
+ muchísimas gracias 	nan
+hola buenos días una disculpa	nan
+ he tenido problemas ocn mi profesor de cálculo vectorial	nan
+ ya que su actitud es un poco arrogante al grado de burlarse de mis preguntas	nan
+ no me siento comoda con ese profesor pero no puedo salirme de su clase. Para evitar eso y asegurarme que aprenderé es posible agendar reuniones de manera sincrónica en el CAM de cálculo vectorial??	nan
+claro	nan
+ muchísimas gracias	nan
+Hola	nan
+ estoy tratando de hacer una cita pero no me deja el Facebook Me podrían ayudar  	nan
+Gracias mi matrícula es 190300435 y necesito ayuda con R para mi clase de estadística analítica	materia:estadistica analitica, tema rstudio
+ cualquiera de los profesores podría ayudarme??	nan
+Podría programar con Fernando para hoy a las 4 porfavor	asesoria:Fernando,dia:hoy,tiempo: 16
+Perfecto muchas gracias	nan
+Buenas tardes! No estoy segura de si hay algún procedimiento a seguir que este omitiendo	nan
+ pero no me permite reservar en su apartado de Facebook y me interesa entrar a una sesión para resolver dudas.	nan
+Me gustaría agendar el martes de 16 a 18 hrs con el profe Fernando. Mi matrícula es 190300421	asesoria:fernando,dias:martes,tiempo:16-18
+Confirmo asistencia	nan
+ muchas gracias! 	nan
+Hola buenas tardes	nan
+ revise sus horarios para una asesoría	nan
+ y vi que tienen el día de hoy  de 19:00 a 20:00 con el profesor Eugenio	asesoria:eugenio,dia:nan,tiempo:19-20
+ me gustaría tener una asesoría con el si se puede 	nan
+El día martes con el profesor Fernando Gomez de 16:00 a 18:00	asesoria:fernando,dia:martes,tiempo:16-18
+Si	nan
+ perfecto. Mañana martes	nan
+ ¿verdad?	nan
+Buenas noches	nan
+ ¿mañana a que hora tienen disponibilidad? Saludos.	nan
+Siii porfavor	nan
+ me gustaría mucho si me pudieran programar dicha videoconferencia.Gracias e igualmente.	nan
+¿Mañana que horarios tienen disponibles?	nan
+¿Puedo apartar al Profesor Fernando Gómez el día martes de 16:00 a 18:00hrs?	asesoria:fernando gomez,dia:martes,tiempo:16-18
+Me parece bien	confirmacion:1
+ muchísimas gracias.	nan
+Hola buenas tardes. El motivo de este correo es para solicitar una asesoría con el profesor Fernando Gómez García	asesoria:fernando gomez garcia
+ para la materia mineria de datos con respecto a la tarea que dejo	materia:mineria de datos
+ en la tarde preferentemente si es que se puedo. De antemano	nan
+ gracias por la atención.	nan
+Claro	nan
+ tenemos la disponibilidad de hoy(jueves) de 6pm a 10pm. y mañana(Viernes) de 4 pm a 10 pm.	nan
+Si se podría mañana a las 8	nan
+ se los agradecería mucho!	nan
+Podría más en la noche? Tipo 9 pm	nan
+Una disculpa	nan
+ lo tendré en consideración para la próxima vez. De antemano muchas gracias.	nan
+Hola buenas noches.Quisiera solicitar asesorías para Probabilidad y Estadística. Me pudieran brindar información al respecto.	asesoria: ,materia:probabilidad y estadistica
+Muchas gracias. Quisiera solicitar asesoría con el Prof. Omar Mejenes: viernes a la 13:00 si es posible.	asesoria:Omar Mejenes,dia:viernes,tiempo:13
+Si perfecto! Gracias	confirmacion:1
+Hola	nan
+ buen día Me gustaría poder agendar una asesoría para el día viernes	asesoria: ,dia:viernes
+ ¿tendrán disponible el horario de la 1 pm con la Lic. Luz Zubieta?	asesoria:luz zubieta, tiempo:13
+De acuerdo	confirmacion:1
+ entonces me gustaría agendar la asesoría para el viernes a la 1 pm con el Prof. Omar Mejenes	asesoria:omar mejenes,dia:vierenes,tiempo:13
+Hola	nan
+ buenas noches	nan
+ somos un grupo de estudiantes de Ingeniería Industrial	nan
+ El motivo de nuestro mensaje es para solicitar una asesoría de matemáticas en el área de probabilidad y estadística.  El tema que se necesita refuerzo es el teorema de Bayes.  Si es posible mi solicitud	asesoria: ,materia:probabilidad y estadistica
+ le agradecería si es el día de mañana miércoles de 9 A.M. con el profesor Juan Diego Canul. Pase buena noches y queda	asesoria:juan diego,dia: miercoles,tiempo: 9-10,tema:probabilidad y estadistica
+os atentos a su respuesta.   	nan
+Hola buenas tardes	nan
+ vi sus horarios del día lunes y me gustaría tener una asesoría	nan
+Hola buen día 	nan
+ para saber  si hay algún curso disponible los viernes o los fines de semana 	nan
+Me gustaría saber más y si tiene costo y debo llenar algún formulario? Y me interesaría la clase del viernes del Prof. Omar Mejenes: viernes de 13 a 15 horas. Ya que es el día que no tengo muchas clase. Muchas gracias. Saludos 	asesoria:omar mejenes,dia:vierenes,tiempo,13-15
+Claro	nan
+ si me interesa tomar el curso. Cómo funciona? O como se llevará acabo?	nan
+Buen dia	nan
+ Podria tomar asesoria con el profesor Eugenio Guerrero de 7:00 a 8:00 pm.	asesoria:Eugenio Guerrero,dia:Martes,tiempo:19-20
+Hola buenos dias una gran disculpa no podre asistir a mi asesoria del dia de hoy ya que me surgio un problema familiar urgente y saldre de la ciudad y no podré presentarme a la asesoria una gran disculpa 	nan
+Hola me gustaría tomar asesorías en el horario de mañana viernes	asesoria: ,dia:viernes
+ pero solo podría conectarme una hora. Está bien?  	nan
+Buen dia	nan
+ Podria tomar asesoria con el profesor Eugenio Guerrero de 7:00 a 8:00 pm.	asesoria:Eugenio,tiempo:19-20
+Buenas tardes	nan
+ estoy pendiente de la sesión del día de hoy	nan
+ no me ha llegado ningún correo de confirmación	nan
+ gracias!  	nan
+Buenas noches. A quien corresponda: Solicito más información sobre las asesorías matemáticas por favor. Quedo atenta a sus comentarios	nan
+saludos. 	nan
+Hola Si	nan
+ el día lunes con el Prof. Eugenio Guerrero de 19-20hrs por favor. Gracias	asesoria:Eugenio,dias:Martes,tiempo:19-20
+Tengo clase justamente a esa hora	nan
+ puedo mas tarde de 3-4pm.	nan
+Hola! Soy Susana Hernández y me gustaría unirme a la clase de asesoría con el Dr. Eugenio Guerrero	asesoria:Eugenio gerrero
+Sí	nan
+ perfecto. Muchas gracias. 	nan
+Buenas tardes	nan
+ me gustaría saber un poco más sobre las asesorías de matemáticas	nan
+ ¿con quien me dirijo?	nan
+ ¿donde me conecto?	nan
+ entre otras cosas	nan
+ si pudiera brindarme más información se lo agradecería mucho	nan
+ saludos. ¡Gracias! 	nan
+Con el profesor Eugenio por favor 	asesoria: eugenio
+De Lunes de 19-20 gracias 	asesoria: ,dia:Lunes,tiempo:19-20
+Bueno dias	nan
+ tienen asesorías disponibles para el día de hoy? 	nan
+Hola	nan
+ me acaban de cancelar mi clase	nan
+ podría por favor si agendar la asesoría a las 5:00 el día de hoy por favor. Gracias. 	asesoria: ,dia:hoy,tiempo:17
+Hola buenas tardes	nan
+ me gustaría obtener más información sobre las asesorías	nan
+ ya que me ha interesado. ¿ En qué consisten?¿Para quiénes aplica? ¿ qué necesito? Me encuentro estudiando la carrera de turismo sustentable y gestión hotelera	nan
+ en tercer semestre.	nan
+Buenos días	nan
+ Me gustaría recibir asesoría el día miércoles con el profesor Eugenio	asesoria:Eugenio,dia:miercoles
+de 6:00 a 7:00 pm. Estoy pendiente de sus instrucciones de cómo proceder. Gracias y saludos cordiales.	tiempo:18-19
+Buen día	nan
+ quisiera saber los pasos para recibir asesorías y de qué materias en específico pueden ayudarme	nan
+ gracias Saludos cordiales 	nan
+Disculpe	nan
+ las asesorías son grupales o individuales? Quisiera saber cómo funciona pues me gustaría mejorar tanto conocimiento como habilidades matemáticas y finanzas	nan
+ comprendo que estaría bien repasar todo Me gustaría los días lunes de 7 a 8 y miércoles de 12 a 1 con el profesor eugenio guerrero	asesorias:eugenio,dia:lunes,tiempo:7-8,dia:miercoles,tiempo:12-13
+Buen día	nan
+ podria explicarme como funcionan las asesorías por favor 	nan
+Me interesa la sesión del lunes con el Profesor Eugenio Guerrero.	asesorias:eugenio gerrero
+Hola	nan
+ buenas tardes	nan
+ quisiéramos agendar una cita con el Ingeniero Eugenio para el día de hoy. En dado caso que se encuentre ocupado	asesoria:eugenio,dia:hoy
+ ¿podríamos agendarla para el día miércoles a las 5:00 pm?. De antemano muchas gracias	asesoria: ,dia:Miercoles,tiempo:17
+ lindo día. 	nan
+Nos parece perfecto ese horario	confirmacion:1
+ gracias 	nan
+Hola buenos días quisiera solicitar asesorías de matematicas en el horario de 16:00-18:00	asesoria: ,tiempo:16-18
+ soy de ingeniería en datos.   	nan
+Hola buenas tardes pregunto conocer la fora en la que me puedo inscribir	nan
+ estoy recursando materias que debo pasar y esto en la tercera oportunidad y me ayudaría mucho el C.A.M	nan
+Me gustaría pedir una tutoría con el Prof. Omar Mejenes el día  viernes 17 de septiembre . para que me resuelva una duda respecto a la solución de Gauss Jordan. 	asesoria:omar mejenes,dia:viernes
+Buenos días	nan
+ no soy estudiante de la Unicaribe	nan
+ pero me interesa tomar asesorías de matemáticas si es posible ya que tengo esa duda. me interesa el horario de los lunes de 7pm a 8pm. 	nan
+Buenas noches. A quien corresponda: Solicito más información sobre las asesorías matemáticas por favor. Quedo atenta a sus comentarios	nan
+saludos.  mi duda consiste si esa hora es de 9am a 11am?	nan
+Buenos días	nan
+ me gustaría inscribirme para las asesorías. 	nan
+Muchas gracias. Mis horarios me permiten tomar las asesorías de los martes de 13:00 a 14:00.	nan
+Muchas gracias	nan
+ cada cuando se puede hacer esto?	nan
+Hola! Me interesa la asesoría con el Lic. Jairo Ayala el día jueves a las 12. Soy alumna de primer ingreso de Innovación empresarial.¿Qué temas tratan en la asesoría? ¿Es a nivel grupal?	asesor:jairo,dias:jueves,12
+Buenas noches   Tengo algunos problemas para resolver polinomios de Taylor en Rstudio	asesoria:, tema: Rstudio
+ algún profesor me podría apoyar	nan
+ porfis Espero sus comentarios	nan
+ gracias y saludos 	nan
+Hola podría agendarme una asesoría con el profesor Eugenio de 17:00 a 19:00 hrs	asesoria:Eugenio, tiempo:17-19
+ gracias.	nan
+Buenas tardes! Me interesa agendar una asesoría mañana	asesoria: ,dia:mañana
+ algunos compañeros tienen las mismas dudas que yo	nan
+ se podrían anexar al link si yo se los comparto?	nan
+Me gustaría el horario de las 5 por favor. 	tiempo:17
+Buenas tardes	nan
+ al momento de poner mis datos me aparece el inicio de sesión invalido y no me deja entrar me gustaría saber si me pueden ayudar con mi problema 	nan
+ gracias.	nan
+Buen día. Estoy teniendo dificultades con mi materia de ecuaciones diferenciales. Me dijeron que podría agendar asesorías por medio de este correo. ¿Hay alguien disponible? De antemano	asesoria: ,materia:ecuaciones dieferenciales
+ agradezco la atención. Saludos.  	nan
+Buenas noches  Tengo unos ejercicios que no entiendo de RSTUDIO	asesoria: ,tema:Rstudio
+ quería ver si algún profesor me puede apoyar porfa. Espero sus comentarios	nan
+gracias y saludos. 	nan
+Hola	nan
+   Podría hacerme una asesoría con el profesor Fernando por favor. si podría darme la asesoría? Es que es a las 16:00 y ya casi es hora Porfiss	asesoria:Fernando,dia:hoy,tiempo:16
+Hola buenos dias	nan
+ el motivo de mi correo es para solicitar asesorías de la materia de ecuaciones diferenciales	asesoria: ,materia:ecuaciones dieferenciales
+ lo que pasa es que hay unos problemas que no entiendo	nan
+ agradecería si podrian agendarme una cita por favor. 	nan
+Quisiera solicitar una asesoría con el profesor Eugenio de 6 a 8 por favor 	asesoria:Eugenio, tiempo:18-20
+Hola tuve un contratiempo y no pude aceptar la invitación a la asesoría	nan
+ por lo tanto no entre al meet	nan
+ una disculpa	nan
+ habría manera de  solicitar la del día jueves con el profesor Álvarez de 3 a 4 ? 	asesoria:alvarez,tiempo:15-16
+Buen día	nan
+ me gustaría solicitar una asesoría	asesoria:
+Buenas noches	nan
+ me comunico para solicitar información general sobre las asesorías	nan
+ cómo los días y los horarios que tienen disponibles. El tema en el que requiero ayuda es análisis de una función	tema:analisis de una funcion
+ de cálculo diferencial. Espero su respuesta	materia:calculo diferencial
+ buena noche y buen fin de semana. Saludos 	nan
+Hola muy buenas tardes	nan
+ me gustaría solicitar asesoría hoy martes de 1 a 3 de la tarde con la profesora Leslye Carmona 	asesoria:leslye Carmona, dia:hoy,tiempo:13-15
+Hola	nan
+ buenas noches El motivo de este correo es para pedir información acerca de los horarios de sus asesorías	nan
+ por favor. Muchas gracias	nan
+ que tengan una linda noche-	nan
+Buenas tardes. El motivo de mi correo es para que me proporcionen los horarios  de las asesorías	nan
+ por favor. Agradezco su atención	nan
+ le deseo una feliz tarde.	nan
+Buenas tardes. El motivo de mi correo es para que me proporcionen los horarios  de las asesorías	nan
+ por favor. Agradezco su atención	nan
+ le deseo una feliz tarde.	nan
+Que tal muy buenas noches	nan
+ el motivo de mi correo es para solicitar una asesoría con la profesora leslye Johanna Ramírez Carmona para el día martes 27 de este presente mes en el horario de 13:00 a 15:00 horas 	asesoria:Leslye Johanna Ramirez Carmona,dia:martes,tiempo:13-15
+ de antemano gracias y saludos.	nan
+Solicité una asesoría con la profa Leslye y con otro horario y me lo cambiaron 	nan
+Hola	nan
+ buenos días. Me llamo Estefani y soy de segundo semestre; me gustaría solicitar unas asesorías con la profesora Leslye Johanna Ramirez Carmona el día martes de 1:00 a 3 :00 de la tarde por favor. 	asesoria:Leslye Johanna Ramirez Carmona,dia:martes,tiempo:13-15
+Hola buenas tardes deseo solicitar accesorias con la profesora lesly los días martes de 1 pm a  3pm	asesoria:Leslye,dia:martes,tiempo:13-15
+Buenas tardes me gustaría solicitar una asesoría con las maestra Leslye Ramirez los días martes de 1 a 3 por favor	asesoria:Leslye Ramirez,dia:martes,tiempo:13-15
+Buenos días. El motivo de mi correo es para solicitar un registro de asesorías con la maestra Leslye Johanna Ramirez Carmona	asesoria:Leslye Johanna Ramirez Carmona
+ en el horario del martes de 1 a 3 de la tarde por favor. Estoy al pendiente de su respuesta	dia:martes,tiempo:13-19
+ buen día	nan
+Buenos días	nan
+ por este medio me gustaría solicitar una clase de asesoría con la profesora  Leslye Johanna Ramirez Carmona para la asignatura de cálculo diferencial	asesoria:Leslye Johanna Ramirez Carmona, materia:calculo diferencial
+ en especial me gustaría que fuese los días martes ya que estoy disponible ese dia y en cuanto la hora si es posible de 13:00 a 15:00 pm estaría bien.	dia:martes,tiempo:13-15
+Hola muy buenos días	nan
+solicito asesorías con la maestra leslye Ramírez de 1-3 los días martes. Espero respuesta de la posibilidad para obtener la asesoría 	asesoria:leslye ramirez,dia:martes,tiempo:13-15
+Buenos días	nan
+ me gustaría solicitar una asesoría con la Profesora Leslye Ramirez	asesoria:Leslye Ramirez
+ los días Martes de 1 a 3 pm	dia:martes, tiempo:13-15
+ gracias y un cordial saludo.	nan
+Hola muy buenas días 	nan
+me gustaría asesorías con la maestra leslye Ramírez de 1-3	asesoria:Leslye Ramirez, tiempo:13-15
+Buenos días. Solicitó una asesoría de Cálculo Diferencial con la profesora Leslye Johanna Ramírez Carmona el día martes de 1:00 a 3:00 pm. Gracias.	asesoria:Leslye Johanna Ramirez Carmona,dia:martes,tiempos:13-15,materia: calculo diferencial
+buenas tardes	nan
+ soy jonathan mejia flores de I.A	nan
+ necesito asesorías	asesoria:
+ con la profesora lesly ramirez	asesoria:leslye ramirez
+buenos días	nan
+ el motivo del presente correo es para solicitar una asesoria CAM con la profesora Leslye Ramirez los días martes de 1 a 3 pm  	asesoria:Leslye Ramirez, dia:martes,tiempo:13-15
+Quiero solicitar una asesoría con la Profa. Leslye los días martes en el horario de 1: 00 p.m a 3:00 pm	asesoria:Leslye,dia:martes,tiempo:13-15
+¡Hola que tal	nan
+ lo que pasa es que me gustaría aprovechar este tiempo para profundizar algunos temas	nan
+ como el Cálculo diferencial e integral. 	nan
+Hola	nan
+ quiero solicitar una reunión para la asesoria	asesoria:
+ de un problema de estadística analítica.	mareria:estadistica analitica
+Hola buenos dias	nan
+ soy Yamile	nan
+ el motivo de mi mensaje es para solicitar una asesoría para un problema de estadistica analitica que no logro comprender con éxito	asesoria:,materia:estadistica analitica
+ ¿podrian ayudarme? Le adjunto el problema y mi procedimiento	nan
+ para ver si algún profesor puede asesorarme	nan
+ gracias.	nan
+ Hola	nan
+ me gustaría a mí y a otros 6 alumnos asesorías para el tema de Estimadores por Máxima Verosimilitud. También	tema:Maxima verosimilitud
+ si serían tan amables de comentarme cuáles profesores están disponibles para asesoría se lo agradecería mucho.	nan
+Buenos días  Soy Raúl Antonio Febles Martin	nan
+ y me gustaría agendar una asesoría para la materia de estadística analítica con el profesor Eugenio Guerrero el martes de la próxima semana de 14:00hrs a las 16:00hrs.	asesoria:Eugenio,dias:martes,tiempo:14-16,tema: estadistica analitica 
+Hola	nan
+ buenas tardes. Pude observar en su página de Facebook	nan
+ que los maestros que conforman el CAM aun siguen dando asesorías de matematicas pero no se como las manejan ahora	nan
+ si debo hacer una especie de cita o algo más. Quisiera por favor que me proporcionen información de lo que debo hacer para obtener asesorías en esta modalidad	nan
+ debido a que necesito ayuda para comprender algunos conceptos de la materia de Geometría computacional.	materia:geometria computacional
+Buenas tardes. Elijo la asesoría con el Dr. Fernando Gomez el Miércoles 	asesoria:Fernando Gomez, dia:miercoles
+Hola	nan
+ buenas tardes. Solicito información para asesorías individuales. De preferencia los días Miércoles si es posible.Muchas gracias.	asesoria: ,dia:miercoles
+Hola	nan
+ hay asesorías el día martes? 	nan
+Hola que tal	nan
+ quiero solicitar asesoría para Cálculo Integral	asesoria: ,materia:calculo integral
+ muchas gracias por su atencion.	nan
+Con el Dr. Victor los dias lunes y martes de 1 a 2 de la tarde	asesoria:victor, dia:lunes,dia:martes,tiempo:13-14
+ gracias. 	nan
+Buenos días. Soy Raúl Antonio Febles Martin	nan
+ y me gustaría agendar una asesoría para la materia de estadística analítica con el porfesor Eugenio Guerrero a las 18:00hrs  La verdad no sé si está es la forma correcta de agendar una asesoría	asesoria: eugenio guerrero,tiempo: 18, materia:estadistica analitica
+ ya que es mi primera vez	nan
+ en caso de que no sea así	nan
+ una disculpa.  Excelente día 	nan
+Buenas tardes	nan
+ mi maestra de organización y administración de empresas me recomendó en caso de que fuera necesario poder tomar asesorías. La verdad es que hasta ahorita se me dificulta cálculo diferencial	materia:calculo diferencial
+ ¿de que manera puedo formar parte de estas asesorías?	nan
+Buenas tardes	nan
+ mando correo para ver los horarios o informacion sobre las tutorias. Buen dia.	nan
+Buen día quería ver si podría entrar a la asesoría de hoy a las tres	asesoria: ,dia:hoy,tiempo:15
+ tengo unas dudas y me acabo de enterar de las asesorias.	nan
+Hola	nan
+ escribo para solicitar una asesorìa con el profesor Jairo Ayala el martes 23 de Febrero horario 12:00 - 14:00	asesoria: jairo ayala, dia: martes,tiempo: 12-14
+Buenas tardes	nan
+ quisiera solicitar una asesoría para el día Jueves 18 de 12 a 14 horas con el doctor Jairo Ayala por favor. 	asesoria:jairo ayala, dia: jueves, tiempo: 12-14 
+Buen día  Mi nombre es Lucia Rodriguez soy estudiante de ingeniería ambiental y ahora curso una materia llamada calculo diferencial y tengo dudas de algunos temas. Quisiera saber si algún profesor me podría ayudar con mis preguntas. El horario puede ser cualquiera estoy en toda disposición. Muchas gracias	asesoria: ,materia:calculo diferencial
+ quedó en espera de respuesta.	nan
+El horario estaría bien hoy martes de 14:00 a 16:00.	asesoria: ,dia:hoy ,tiempo: 14-16, tema: calculo diferencial
+Hola Buenas tardes. Tomo clases de Ecuaciones diferenciales con la profesora Luz del Carmen Zubieta y en un correo comentó que si necesitaba asesoria me comunicara al CAM para programar una con ella.  ¿Habrá posibilidad de tener una asesoría el día lunes 15 con ella y con otra compañera que también la requiere? Quedo en espera de su respuesta	asesoria: luz del carmen, materia: ecuaciones diferenciales
+ bonita tarde. 	nan
+Hola	nan
+ buenas noches. Me gustaría saber cuales son los horarios para las asesorías de ecuaciones diferenciales. Muchas gracias	materia:ecuaciones diferenciales
+ bonito día. 	nan
+Buenas tardes	nan
+ me gustaría saber si están dando asesorías	nan
+ de ser así le agradecería me pudiesen compartir en que horario las dan. Gracias	nan
+Hola	nan
+ buenas noches. Me gustaría saber cuales son los horarios para las asesorías de ecuaciones diferenciales. Muchas gracias	materia:ecuaciones diferenciales
+ bonito día. 	nan
+se me complica la materia de matematicas	nan
+ requeiro ayuda por favor	nan
+Hola buen día. me presento soy Gary Izanami Gonzalez Lara y me gustaria tener una asesoría con ustedes	nan
+ aunque tambien me gustaria saber informacion extra respecto a ustedes; como por ejemplo si es grupal o individual	nan
+ si son tips para mejorar en la materia	nan
+ que horarios tienen junto con otras dudas al respecto.	nan
+Me gustaría reservar la sesión en el CAM para hoy de 3 a 4 pm	asesoria: ,dia:hoy, tiempo:15-16
+hola buenos dias me gustaria saber si me pueden apoyar para hacer un cambio de usuario para la plataforma de matematicas ya que me confundi al no poner mi matrícula como usuario y poder realizar mis actividades dentro de la plataforma 	nan
+Buenas tardes	nan
+Soy Daniela Solorzano Sánchez de la carrera de ingeniería en logística	nan
+ quisiera saber si me pueden dar una asesoría para la materia de Ecuaciones diferenciales.	asesoria: ,materia:ecuaciones dieferenciales
+Buenas noches	nan
+ mi nombre es Oscar Ronquillo Colin	nan
+ estudiante de la Universidad del Caribe	nan
+ perteneciente a la carrera de Ingeniería en Datos	nan
+ me gustaría agendar una asesoría con el profesor Miguel Alberto Can Tun. Tengo entendido que hay un horario de 2 a 4 de la tarde	asesoria: miguel alberto,tiempo: 14-16 
+ me gustaría agendar una asesoría para ese horario del día Viernes. Me gustaría tratar más que nada el tema de la aplicación de funciones trigonométricas. Espero que haya un lugar para ese horario	asesoria: , dias:viernes, tema: funciones trigonometricas
+ muchas gracias	nan
+ estaré al pendiente de una respuesta.	nan
+Buenos dias  donde puedo agendar una asesoría con el profe david granados de datos  y algoritmos??	nan
+Hola buenas tardes	nan
+ me gustaría pedir unas asesorías para el tema de despejes ya que tengo de dificultad de entendimiento	asesoria: tema:despeje
+ si se puede me gustaría el día viernes de 14 a 16 horas.	asesoria: ,dia:viernes, tiempo:14-16

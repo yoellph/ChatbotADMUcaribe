@@ -1,0 +1,35 @@
+El funcionamiento del asistente es el siguiente
+se inicia al recibir una solicitud en el correo electronico del CAM
+el asistente envia los datos al transformer que se encargara de prosesar los mismos.
+posterior a esto se envian los datos procesados al modulo respuesta que generara una respuesta a dichos datos
+en paralelo a lo anterior se envian los datos al modulo de gestion de asesoria para que programe la asesoria en el calendario y genere una sesion de meet
+
+
+Para solucionar los problemas de lenguaje natural decidimos utilizar algoritmos de enfoque, especificamente el algoritmo transformer,
+ este es un modelo de aprendizaje profundo.
+Estos estan desarrollados para manipular datos secuenciales principalmente en el campo del procesamiento de lenguaje natural.
+
+entonces el tranformer recibira datos que prosesara el trasformer y como salida tendremos datos procesados que para nuestro caso tendremos el asesor seleccionado
+la hora- fecha
+asignatura
+tema
+
+en los siguientes 2 ejemplos podemos ver una matriz que representa los pesos de ateencion del transformer para una oracion dada como input
+respecto al output
+en el caso de la izquierda podemos ver que la frase de entrada es "elijo a fernando gomez" y la salida es asesoria fernando gomez.
+podemos observar que la atencion de este se da en la palabra fernando y esta palabra es muy fuerte este ejemplo en especifico.
+
+en el caso de la izquierda podemos observar que el input es "necesito una asesorria hoy con el profesor fernando.
+de igual forma podemos ver que hay un alto grado de atencion en la palabra fernando para esta salida especifica.
+
+resultados
+el asistente virtual nos asigna una asesoria con el profesor seleccionado, aignando en el calendario tanto del alumno como del profesor
+una entrada donde esten todos los datos para unirse a la sesion en google meet.
+
+acontinuacion presentaremos un video donde podremos ver la en operacion el asistente virtual.
+en el lado izquierdo tenemos el servidor donde esta alojado el asistente virtual.
+en el lado derecho esta la seccion del correo electronico donde esta el estudiante solicitando la asesoria
+
+
+
+

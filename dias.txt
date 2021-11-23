@@ -1,0 +1,10 @@
+lunes
+martes
+miercoles
+jueves
+viernes
+sabado
+domingo
+hoy
+mañana
+pasado mañana

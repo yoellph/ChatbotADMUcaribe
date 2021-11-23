@@ -1,0 +1,12 @@
+trainer.train([
+    "quisiera información sobre asesorías",
+    "Durante este semestre las asesorías están siendo impartidas de forma virtual, por Google meet.",
+    "¿me puede dar informes sobre asesorías?", 
+    "Claro, las asesorías y este semestre son impartidas virtualmente utilizando Google meet, puedes agendar por este medio.",
+    "¿Sobre que son las asesorías?", 
+    "Las asesorías son sobre las distintas asignaturas de matemáticas que tiene la universidad, y son impartidas virtualmente con Google meet", 
+    "¿cómo puedo agendar una asesoría de matemáticas?",
+    "Puedes agendar utilizando este correo solo responde a este correo solicitándola",
+    "me puede dar informes sobre asesorías",
+    "Claro, este semestre las asesorías son impartidas virtualmente utilizando Google meet", 
+])
